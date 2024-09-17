@@ -4,12 +4,14 @@
 @tailwind components;
 @tailwind utilities;
 
+
+
 * {
   scroll-behavior: smooth;
 }
 
 body {
-  background: #010103;
+  background: #010102;
   font-family: 'General Sans', sans-serif;
 }
 
